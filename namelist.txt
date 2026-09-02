@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lalmani Devi
 Rajkalash
 Koushilya
@@ -14,3 +15,22 @@ Bipat
 Sushi
 Raj
 Rajkalash2
+=======
+Lalmani Devi
+Rajkalash
+Koushilya
+Sumitra
+Sita
+Geeta
+Lakshmi
+Radha
+Rohit
+Anshu
+Mai
+Jitu
+Bipat
+Sushi
+Raj
+sumitra2
+new didi
+>>>>>>> b9055a3... new didi
