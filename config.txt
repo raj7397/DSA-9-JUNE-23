@@ -1,3 +1,6 @@
 This is my first config.txt
 commit ahead check
 hands on for amend
+Configuring
+new config
+first split
